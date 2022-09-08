@@ -4,4 +4,7 @@ public class demo {
         System.out.println("test1 update");
         System.out.println("hello world!");
     }
+    public void helle(){
+        System.out.println("test1");
+    }
 }
